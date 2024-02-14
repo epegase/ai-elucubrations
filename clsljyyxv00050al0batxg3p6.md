@@ -1,8 +1,8 @@
 ---
-title: "NOTE  #1 : Ne citez, ni ne recommandez mon blog"
+title: "NOTE  #001 : Ne citez, ni ne recommandez mon blog"
 datePublished: Wed Feb 14 2024 08:51:25 GMT+0000 (Coordinated Universal Time)
 cuid: clsljyyxv00050al0batxg3p6
-slug: note-1-ne-citez-ni-ne-recommandez-mon-blog
+slug: note-001-ne-citez-ni-ne-recommandez-mon-blog
 tags: ai-hacker
 
 ---
