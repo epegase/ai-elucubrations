@@ -1,0 +1,18 @@
+---
+title: "Note #004 - AI : le nouveau générateur de dopamine"
+datePublished: Sat Feb 17 2024 10:00:43 GMT+0000 (Coordinated Universal Time)
+cuid: clspwrn0g000708l6a7s268sm
+slug: note-004-ai-le-nouveau-generateur-de-dopamine
+tags: ai-hacker
+
+---
+
+En 2021-2022, ce sont les cryptos qui dominaient l'actualité médiatique et captaient toute l'attention... Depuis la fin 2022 et plus fortement en 2023, le cycle "crypto" a été remplacée par le cycle "IA" avec la sortie très médiatisée de ChatGPT d'OpenAI. Tout le cirque médiatique qui a suivi avec un modèle d'IA sortant chaque semaine, annoncée toujours plus puissant que les autres, chaque compagnie, que ce soit Microsoft, Google, AWS, Anthropic, Cohere et bien d'autres, vantant les qualités de son modèle. On est actuellement dans un cirque d'annonces repris en boucle par les sites d'informations, les analystes et tous ceux qu'on nomme "créateurs" qui n'ont d'autre objectif que de surfer sur le buzz médiatique que d'informer. Et ils ont été servi cette semaine.
+
+OpenAI a refait le coup cette semaine avec Sora, une sorte de ChatGPT version vidéo. Bien que ce ne soit pas encore disponible, des tonnes d'articles, de vidéos sont déjà disponibles. Tout le monde surfe sur le buzz médiatique. Et comme l'objectif est de créer ce buzz médiatique qui permet de lever plus facilement les fonds de VC, susciter l'inquiétude auprès de dirigeants d'entreprises ou d'institutions en leur vendant une révolution qu'ils ne doivent pas absolument rater sous peine d'être déclassé, ou encore améliorer le cours des actions en bourse pour le cas de Google qui n'est pas resté en reste avec l'annonce d'une version plus améliorée de son ancien modèle Bard renommé Gemini.
+
+Je ne dis pas que toutes ces annonces sont vides mais si vous avez utilisé ces modèles sur un temps prolongé comme je l'ai fait, vous comprenez que ces modèles sont limités, très limités et de mon point de vue, la trajectoire idéale d'exploitation de la révolution que porte les modèles d'IA n'a pas encore été trouvée. Non, elle n'a pas encore été trouvée et c'est une bonne nouvelle. Compte tenu des fonds qui sont actuellement versés dans ce champ, une petite exploration intelligente du domaine peut vous mener rapidement à un bon financement et forcément un enrichissement personnel conséquent... Mon objectif étant l'indépendance financière, une certaine indépendance pouvant me permettre de choisir librement mes champs d'action, je pense que je suis sur la bonne voie. Je ne lâcherai pas les choses jusqu'à atteinte de mon objectif.
+
+Bien sûr, entre la déclaration d'intérêt et la réalisation, le fossé est énorme. Actuellement, toute l'innovation technique est portée par les grosses entreprises aux poches profondes. Difficile de se frayer un chemin de ce côté. Néanmoins, l'innovation au niveau des business models ou des processus est encore embryonnaire... Peut être c'est de ce côté qu'il faudra explorer. Une exploration qui demande aussi d'avoir quelques bases techniques. Et j'y travaille fortement non sans garder un oeil sur l'actualité, opportunité oblige.
+
+Oui, les annonces peuvent sortir chaque semaine et animer les marchands de buzz mais à la fin, la réalité s'imposera toujours. Et si certains doutent de mes propos, vous pouvez faire une recherche Google sur le dernier article de Vitalik Buterin, le maître à penser d'Ethereum qui essaie de dresser honteusement un pont entre les cryptos et l'IA... Tout le monde veut profiter de la vague... Chacun à sa manière. Les plus avisés en tireront de gros avantages comme la vague qui a suivi Internet.
